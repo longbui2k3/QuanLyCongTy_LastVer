@@ -1,0 +1,79 @@
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.exe.licenses
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.csproj.CopyComplete
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.exe
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Dialogs.FrmProject.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Frm_Main.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Forms.Frm_DangNhap.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_Luong.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_TuyenDung.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinCaNhan.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_NhanVien.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Forms.Frm_ThongTinNhanVien.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_DuAn.resources
+C:\Users\HP\Desktop\Dai Hoc\Lap trinh Windows\Tuan 5\QuanLyDuAn\QuanLyDuAn\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVu.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Dialogs.FrmProject.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_ThongTinNhanVien.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Frm_Main.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Forms.Frm_DangNhap.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_DuAn.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_Luong.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhanVien.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_NhiemVu.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_ThongTinCaNhan.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Page_TuyenDung.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Properties.Resources.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.exe.licenses
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.exe
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.exe.config
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.exe
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\QuanLyDuAn.pdb
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Pages.Frm_ThemTD.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.Dao.Frm_UngVien.resources
+C:\Users\HP\Downloads\QuanLyCongTy_Ver3-main - Copy\obj\Debug\QuanLyDuAn.csproj.CopyComplete
